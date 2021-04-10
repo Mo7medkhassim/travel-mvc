@@ -1,0 +1,17 @@
+{
+    "name": "fs9/micromvc",
+    "description": "micro mvc",
+    "license": "MIT",
+    "type": "framework",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*",
+        "dcblogdev/pdo-wrapper": "^2.0",
+        "wixel/gump": "^1.12" 
+    },
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "app"
+        }
+    }
+}
