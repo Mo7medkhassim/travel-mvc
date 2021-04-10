@@ -29,6 +29,8 @@
 	<link rel="stylesheet" href="<?=PATH;?>front/css/animate.min.css">
 	<link rel="stylesheet" href="<?=PATH;?>front/css/owl.carousel.css">
 	<link rel="stylesheet" href="<?=PATH;?>front/css/main.css">
+	<!-- custome -->
+	<link rel="stylesheet" href="<?=PATH;?>front/css/costum.css">
 </head>
 
 <body>
